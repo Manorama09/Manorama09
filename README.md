@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"> 
+<br>
+
+![Manorama's Github Stats](https://github-readme-stats.vercel.app/api?username=Manorama09&count_private=true&show_icons=true&theme=radical)
 
 <br>
-![Manorama Maharana's Github Stats](https://github-readme-stats.vercel.app/api?username=Manorama09&count_private=true&show_icons=true&theme=radical)
