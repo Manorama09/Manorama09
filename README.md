@@ -1,6 +1,6 @@
 ### Hi, I'm Manorama ✨
 
-- :computer: I am a 3rd year - Computer Science Engineering student.
+- :computer: I'm a 3rd year - Computer Science Engineering student.
 - :telescope: I'm currently working on Flutter Projects.
 - :seedling: I’m currently learning React.
 - :mailbox: Connect with me on: [LinkedIn](https://www.linkedin.com/in/manorama09/).
