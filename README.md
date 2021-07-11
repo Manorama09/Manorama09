@@ -1,6 +1,6 @@
 ### Hi, I'm Manorama ✨
 
-- :computer:I'm currently pursuing a Bachelors degree in Computer Science Engineering from VIT Vellore, batch of '22.
+- :computer: I'm currently pursuing a Bachelors degree in Computer Science Engineering at VIT Vellore, batch of '22.
 - :seedling: I'm currently learning React.js and Docker.
 - :mailbox: Connect with me on: [LinkedIn](https://www.linkedin.com/public-profile/in/manorama09/).
 
